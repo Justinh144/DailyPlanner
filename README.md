@@ -20,5 +20,7 @@ Line 56 uses the forEach method to iterate through each inputArea with the arrow
 Line 92 uses the savedInputs var to start setting up or save button with the id saveBtn. Each button has an eventListener, I had to add a default eventListener on line 97 before the actual function because without it any text on a time block would be saved to all blocks instead of just that one. Next is the actual eventListener with the click function. Line 102 uses 'this' to grab the previous element sibling id which would be the corresponding divs button. Line 105 takes the inputed text from that div and then saves them to the local storage which gets called on by the previous function when the page is reloaded.
 
 Justin Hodges
-![Plan2](https://github.com/Justinh144/Homework5/assets/146400241/68405c4a-4dca-47a6-8bb3-457eab7f7d92)
 ![Plan1](https://github.com/Justinh144/Homework5/assets/146400241/27de9522-91da-4086-b88d-eca3176449a2)
+
+![Plan2](https://github.com/Justinh144/Homework5/assets/146400241/68405c4a-4dca-47a6-8bb3-457eab7f7d92)
+
