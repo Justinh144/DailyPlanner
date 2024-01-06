@@ -21,7 +21,7 @@ Line 92 uses the savedInputs var to start setting up or save button with the id 
 
 Justin Hodges
 
-file:///C:/Users/Cash/Desktop/Homework5/index.html
+https://justinh144.github.io/DailyTaskList/
 
 ![Plan1](https://github.com/Justinh144/Homework5/assets/146400241/27de9522-91da-4086-b88d-eca3176449a2)
 
